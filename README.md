@@ -78,7 +78,8 @@ To get a local copy up and running follow these simple example steps.
 
 ## Contact
 
-Tristan Derez - [@doreizu](https://twitter.com/doreizu) - tristan.derez@gmail.com
+Tristan Derez - [@doreizu](https://twitter.com/doreizu) <br/>
+tristan.derez@gmail.com
 
 Project Link: [https://github.com/dreyzu/digital-business-card](https://github.com/dreyzu/digital-business-card)
 
