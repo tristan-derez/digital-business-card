@@ -81,7 +81,7 @@ To get a local copy up and running follow these simple example steps.
 Tristan Derez - [@doreizu](https://twitter.com/doreizu) <br/>
 tristan.derez@gmail.com
 
-Project Link: [https://github.com/dreyzu/digital-business-card](https://github.com/dreyzu/digital-business-card)
+Project Link: [https://digital-business-card-dreyzu.vercel.app/](https://digital-business-card-dreyzu.vercel.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
