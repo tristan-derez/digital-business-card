@@ -28,7 +28,7 @@
 
 ## About The Project
 
-[![Digital Business Card][product-screenshot]](https://i.ibb.co/wrzNkHN/Digital-business-card.png)
+![Digital Business Card](https://i.ibb.co/wrzNkHN/Digital-business-card.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -49,8 +49,6 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-
 - yarn
   ```sh
   npm install --global yarn
@@ -58,17 +56,20 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-`1. Clone the repo
+1. Clone the repo
 
-```sh
-git clone https://github.com/dreyzu/digital-business-card
-```
+   ```sh
+   git clone https://github.com/dreyzu/digital-business-card
+   ```
 
 2. Install packages
+
    ```sh
    yarn install
    ```
+
 3. Start development server
+
    ```sh
    yarn start
    ```
@@ -79,7 +80,7 @@ git clone https://github.com/dreyzu/digital-business-card
 
 ## Contact
 
-Your Name - [@doreizu](https://twitter.com/doreizu) - tristan.derez@gmail.com
+Tristan Derez - [@doreizu](https://twitter.com/doreizu) - tristan.derez@gmail.com
 
 Project Link: [https://github.com/dreyzu/digital-business-card](https://github.com/dreyzu/digital-business-card)
 
