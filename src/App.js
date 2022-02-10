@@ -11,7 +11,7 @@ export default function App() {
   return (
     <ChakraProvider theme={theme}>
       <Flex justifyContent='center'>
-        <Flex direction='column' justifyContent='center' mt='44px'>
+        <Flex direction='column' justifyContent='center' mt='44px' mb='44px'>
           <Box borderRadius='10px' overflow='hidden' w='317px' bg='#1A1B21'>
             <Header />
             <Main />
